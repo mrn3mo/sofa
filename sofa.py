@@ -1,4 +1,4 @@
-import sys, os,
+import sys, os
 import socket,struct,time
 
 print '            tool by Ali PotHead'
